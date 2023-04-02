@@ -86,7 +86,7 @@ int main()
 		system("CLS");
 
 
-		// Q NO 1
+		
 		// Sort and display all the records roll number wise in ascending order
 		if (num == 1)
 		{
@@ -109,7 +109,7 @@ int main()
 		}
 
 
-		// Q NO 2
+	
 		// Sort and display all the records roll number wise in descending order
 		if (num == 2)
 		{
@@ -132,7 +132,6 @@ int main()
 		}
 
 
-		// Q NO 3
 		//Sort and display all the records in ascending order based on marks in mid term
 		if (num == 3)
 		{
@@ -185,7 +184,7 @@ int main()
 
 
 
-		// Q NO 4 
+	
 		// Sort and display all the records in descending order based on marks in mid term
 		if (num == 4)
 		{
@@ -236,7 +235,7 @@ int main()
 		}
 
 
-		// Q NO 5
+		
 		// Sort and display all the records in ascending order based on marks in final term
 		if (num == 5)
 		{
@@ -286,7 +285,7 @@ int main()
 		}
 
 
-		// Q NO 6
+	
 		//sort and display all the records in descending order based on marks in final term
 		if (num == 6)
 		{
@@ -336,7 +335,7 @@ int main()
 		}
 
 
-		// Q NO 7
+		
 		// Sort and display all the records in ascending order based on Grades
 		if (num == 7)
 		{
@@ -387,7 +386,7 @@ int main()
 
 
 
-		// Q NO 8
+		
 		// Sort and display all the records in descending order based on Grades
 		if (num == 8)
 		{
@@ -438,7 +437,7 @@ int main()
 
 
 
-		// Q NO 9
+		
 		// Add a new entry of student
 		if (num == 9)
 		{
@@ -544,7 +543,7 @@ int main()
 		}
 
 
-		// Q NO 10
+	
 		// delete a student record based on his roll number
 		if (num == 10)
 		{
@@ -596,7 +595,6 @@ int main()
 		}
 
 
-		// Q NO 11
 		// Display the record of all students greater than X marks in final exam(in descending order with respect to marks obtained in final exam)
 		if (num == 11)
 		{
@@ -655,7 +653,7 @@ int main()
 		}
 
 
-		// Q NO 12
+		
 		// Display the record of all students greater than X marks in final exam (in ascending order with respect to marks obtained in final exam)
 		if (num == 12)
 		{
@@ -714,7 +712,7 @@ int main()
 		}
 
 
-		// Q NO 13
+		
 		// Display the record of all students less than or equal to X marks in final exam (in descending order with respect to marks obtained in final exam)
 		if (num == 13)
 		{
@@ -773,7 +771,6 @@ int main()
 		}
 
 
-		// Q NO 14
 		// Display the record of all students less than or equal to X marks in final exam (in ascending order with respect to marks obtained in final exam)
 		if (num == 14)
 		{
@@ -832,7 +829,7 @@ int main()
 		}
 
 
-		// Q NO 15
+		
 		// Display the record of all students greater than X grade (in descending order with respect to grade)
 		if (num == 15)
 		{
@@ -970,7 +967,7 @@ int main()
 
 
 
-		// Q NO 16
+		
 		// Display the record of all students greater than X grade (in ascending order with respect to grade)
 		if (num == 16)
 		{
@@ -1107,7 +1104,7 @@ int main()
 		}
 
 
-		// Q NO 17
+	
 		//
 		if (num == 17)
 		{
@@ -1265,7 +1262,7 @@ int main()
 		}
 
 
-		// Q NO 18
+		
 		//
 		if (num == 18)
 		{
